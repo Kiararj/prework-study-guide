@@ -12,8 +12,6 @@ N/A
 
 To use the study guide refer to the bulleted topics about HTML, CSS, JavaScript, and Git. If the DevTools are used, JavaScript is running and the main topics are listed along with a random prompt on what to study first. 
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
